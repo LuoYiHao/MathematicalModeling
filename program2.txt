@@ -23,20 +23,20 @@ int main()
             double t1 = sqrt(pow((b0 - g0),2) + pow(wind,2));
             double angle1 = atan(wind/(b0 - g0));
 
-            double t2 = sqrt(pow((19.723314 + t1 * cos(angle1) - 98),2) + pow((t1 * sin(angle1)),2));
-            double angle2 = atan((t1 * sin(angle1)) / (19.723314 + t1 * cos(angle1) - 98));
+            double t2 = sqrt(pow((19.723311 + t1 * cos(angle1) - 98),2) + pow((t1 * sin(angle1)),2));
+            double angle2 = atan((t1 * sin(angle1)) / (19.723311 + t1 * cos(angle1) - 98));
 
-            double t3 = sqrt(pow((19.723314 + t2 * cos(angle2) - 98),2) + pow((t2 * sin(angle2)),2));
-            double angle3 = atan((t2 * sin(angle2)) / (19.723314 + t2 * cos(angle2) - 98));
+            double t3 = sqrt(pow((19.723311 + t2 * cos(angle2) - 98),2) + pow((t2 * sin(angle2)),2));
+            double angle3 = atan((t2 * sin(angle2)) / (19.723311 + t2 * cos(angle2) - 98));
 
-            double t4 = sqrt(pow((19.723314 + t3 * cos(angle3) - 98),2) + pow((t3 * sin(angle3)),2));
-            double angle4 = atan((t3 * sin(angle3)) / (19.723314 + t3 * cos(angle3) - 98));
+            double t4 = sqrt(pow((19.723311 + t3 * cos(angle3) - 98),2) + pow((t3 * sin(angle3)),2));
+            double angle4 = atan((t3 * sin(angle3)) / (19.723311 + t3 * cos(angle3) - 98));
 
-            double t5 = sqrt(pow((19.723314 + t4 * cos(angle4) - 98),2) + pow((t4 * sin(angle4)),2));
-            double angle5 = atan((t4 * sin(angle4)) / (19.723314 + t4 * cos(angle4) - 98));
+            double t5 = sqrt(pow((19.723311 + t4 * cos(angle4) - 98),2) + pow((t4 * sin(angle4)),2));
+            double angle5 = atan((t4 * sin(angle4)) / (19.723311 + t4 * cos(angle4) - 98));
 
-            double t6 = sqrt(pow((19.723314 + t5 * cos(angle5) - 980 - 11760),2) + pow((t5 * sin(angle5)),2));
-            double angle6 = atan((t5 * sin(angle5)) / (19.723314 + t5 * cos(angle5) - 980 - m * 9.8));
+            double t6 = sqrt(pow((710.0391975 + t5 * cos(angle5) - 980 - 11760),2) + pow((t5 * sin(angle5)),2));
+            double angle6 = atan((t5 * sin(angle5)) / (710.0391975 + t5 * cos(angle5) - 980 - m * 9.8));
 
             double h1 = cos(angle1);
             double h2 = cos(angle2);
