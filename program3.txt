@@ -27,29 +27,34 @@ int main()
                 double angle1 = atan((wind + water)/(b0 - g0));
                 //cout<<" t1 = "<<t1<<" angle1 = "<<angle1 * transformtoAngle<<" ";
 
-                double t2 = sqrt(pow((19.723314 + t1 * cos(angle1) - 98),2) + pow((t1 * sin(angle1)),2));
-                double angle2 = atan((t1 * sin(angle1)) / (19.723314 + t1 * cos(angle1) - 98));
+                double stream1 = 374 * cos(angle1) * 0.05 * 1.5 * 1.5;
+                double t2 = sqrt(pow((19.723314 + t1 * cos(angle1) - 98),2) + pow((t1 * sin(angle1) + stream1),2));
+                double angle2 = atan((t1 * sin(angle1) + stream1) / (19.723314 + t1 * cos(angle1) - 98));
                 //cout<<"t2 = "<<t2<<" angle2 = "<< angle2 * transformtoAngle<<" ";
 
-                double t3 = sqrt(pow((19.723314 + t2 * cos(angle2) - 98),2) + pow((t2 * sin(angle2)),2));
-                double angle3 = atan((t2 * sin(angle2)) / (19.723314 + t2 * cos(angle2) - 98));
+                double stream2 = 374 * cos(angle2) * 0.05 * 1.5 * 1.5;
+                double t3 = sqrt(pow((19.723314 + t2 * cos(angle2) - 98),2) + pow((t2 * sin(angle2) + stream2),2));
+                double angle3 = atan((t2 * sin(angle2) + stream2) / (19.723314 + t2 * cos(angle2) - 98));
                 //cout<<"t3 = "<<t3<<" angle3 = "<< angle3 * transformtoAngle<<" ";
 
-                double t4 = sqrt(pow((19.723314 + t3 * cos(angle3) - 98),2) + pow((t3 * sin(angle3)),2));
-                double angle4 = atan((t3 * sin(angle3)) / (19.723314 + t3 * cos(angle3) - 98));
+                double stream3 = 374 * cos(angle3) * 0.05 * 1.5 * 1.5;
+                double t4 = sqrt(pow((19.723314 + t3 * cos(angle3) - 98),2) + pow((t3 * sin(angle3) + stream3),2));
+                double angle4 = atan((t3 * sin(angle3) + stream3) / (19.723314 + t3 * cos(angle3) - 98));
                 //cout<<"t4 = "<<t4<<" angle4 = "<< angle4 * transformtoAngle<<" ";
 
-                double t5 = sqrt(pow((19.723314 + t4 * cos(angle4) - 98),2) + pow((t4 * sin(angle4)),2));
-                double angle5 = atan((t4 * sin(angle4)) / (19.723314 + t4 * cos(angle4) - 98));
+                double stream4 = 374 * cos(angle4) * 0.05 * 1.5 * 1.5;
+                double t5 = sqrt(pow((19.723314 + t4 * cos(angle4) - 98),2) + pow((t4 * sin(angle4) + stream4),2));
+                double angle5 = atan((t4 * sin(angle4) + stream4) / (19.723314 + t4 * cos(angle4) - 98));
                 //cout<<"t5 = "<<t5<<" angle5 = "<< angle5 * transformtoAngle<<" ";
 
-                double t6 = sqrt(pow((19.723314 + t5 * cos(angle5) - 980 - 11760),2) + pow((t5 * sin(angle5)),2));
-                double angle6 = atan((t5 * sin(angle5)) / (19.723314 + t5 * cos(angle5) - 980 - m * 9.8));
+                double stream5 = 374 * cos(angle5) * 0.3 * 1.5 * 1.5;
+                double t6 = sqrt(pow((19.723314 + t5 * cos(angle5) - 980 - 11760),2) + pow((t5 * sin(angle5) + stream5),2));
+                double angle6 = atan((t5 * sin(angle5) + stream5) / (19.723314 + t5 * cos(angle5) - 980 - m * 9.8));
                 //cout<<"t6 = "<<t6<<" angle6 = "<< angle6 * transformtoAngle;
                 //cout<<" angle7 = "<<(angle6 - angle5) * transformtoAngle<<endl;
-
-                double t7 = sqrt(pow((t6 * cos(angle6) + 1.025 * 1000 * 9.8 * 3.2 * x /7900 - 3.2 * x * 9.8),2) + pow(t6 * sin(angle6),2));
-                double angle7 = atan((t6 * cos(angle6) + 1.025 * 1000 * 9.8 * 3.2 * x /7900 - 3.2 * x * 9.8)/(t6 * sin(angle6)));
+                double stream7 = 374 * cos(angle6) * 0.3 * 1.5 * 1.5;
+                double t7 = sqrt(pow((t6 * cos(angle6) + 1.025 * 1000 * 9.8 * 3.2 * x /7900 - 3.2 * x * 9.8),2) + pow((t6 * sin(angle6) + stream7),2));
+                double angle7 = atan((t6 * cos(angle6) + 1.025 * 1000 * 9.8 * 3.2 * x /7900 - 3.2 * x * 9.8)/(t6 * sin(angle6) + stream7));
 
                 double h1 = cos(angle1);
                 double h2 = cos(angle2);

@@ -1,903 +1,300 @@
-h = 0.9416 m = 1766 angle5 = 4.99949 angle7 = 48.5713
-total height = 18.0752
-total weight = 18.1735
-h = 0.9416 m = 1767 angle5 = 4.99949 angle7 = 48.7847
-total height = 18.009
-total weight = 18.2222
-h = 0.9416 m = 1768 angle5 = 4.99949 angle7 = 48.9992
-total height = 17.9423
-total weight = 18.2708
-h = 0.9417 m = 1766 angle5 = 4.99821 angle7 = 48.501
-total height = 18.0974
-total weight = 18.1571
-h = 0.9417 m = 1767 angle5 = 4.99821 angle7 = 48.714
-total height = 18.0314
-total weight = 18.2057
-h = 0.9417 m = 1768 angle5 = 4.99821 angle7 = 48.9282
-total height = 17.9649
-total weight = 18.2544
-h = 0.9418 m = 1767 angle5 = 4.99694 angle7 = 48.6435
-total height = 18.0536
-total weight = 18.1892
-h = 0.9418 m = 1768 angle5 = 4.99694 angle7 = 48.8573
-total height = 17.9873
-total weight = 18.2379
-h = 0.9418 m = 1769 angle5 = 4.99694 angle7 = 49.0723
-total height = 17.9204
-total weight = 18.2866
-h = 0.9419 m = 1767 angle5 = 4.99567 angle7 = 48.5731
-total height = 18.0759
-total weight = 18.1728
-h = 0.9419 m = 1768 angle5 = 4.99567 angle7 = 48.7865
-total height = 18.0097
-total weight = 18.2214
-h = 0.9419 m = 1769 angle5 = 4.99567 angle7 = 49.0011
-total height = 17.943
-total weight = 18.2701
-h = 0.942 m = 1767 angle5 = 4.9944 angle7 = 48.5028
-total height = 18.098
-total weight = 18.1563
-h = 0.942 m = 1768 angle5 = 4.9944 angle7 = 48.7158
-total height = 18.032
-total weight = 18.2049
-h = 0.942 m = 1769 angle5 = 4.9944 angle7 = 48.9301
-total height = 17.9655
-total weight = 18.2536
-h = 0.9421 m = 1768 angle5 = 4.99314 angle7 = 48.6453
-total height = 18.0543
-total weight = 18.1884
-h = 0.9421 m = 1769 angle5 = 4.99314 angle7 = 48.8591
-total height = 17.9879
-total weight = 18.2371
-h = 0.9421 m = 1770 angle5 = 4.99314 angle7 = 49.0741
-total height = 17.921
-total weight = 18.2858
-h = 0.9422 m = 1768 angle5 = 4.99187 angle7 = 48.5749
-total height = 18.0765
-total weight = 18.172
-h = 0.9422 m = 1769 angle5 = 4.99187 angle7 = 48.7883
-total height = 18.0103
-total weight = 18.2206
-h = 0.9422 m = 1770 angle5 = 4.99187 angle7 = 49.003
-total height = 17.9436
-total weight = 18.2693
-h = 0.9423 m = 1768 angle5 = 4.9906 angle7 = 48.5046
-total height = 18.0987
-total weight = 18.1555
-h = 0.9423 m = 1769 angle5 = 4.9906 angle7 = 48.7177
-total height = 18.0327
-total weight = 18.2041
-h = 0.9423 m = 1770 angle5 = 4.9906 angle7 = 48.9319
-total height = 17.9661
-total weight = 18.2528
-h = 0.9424 m = 1769 angle5 = 4.98933 angle7 = 48.6471
-total height = 18.055
-total weight = 18.1877
-h = 0.9424 m = 1770 angle5 = 4.98933 angle7 = 48.861
-total height = 17.9886
-total weight = 18.2363
-h = 0.9424 m = 1771 angle5 = 4.98933 angle7 = 49.076
-total height = 17.9217
-total weight = 18.285
-h = 0.9425 m = 1769 angle5 = 4.98806 angle7 = 48.5767
-total height = 18.0772
-total weight = 18.1712
-h = 0.9425 m = 1770 angle5 = 4.98806 angle7 = 48.7902
-total height = 18.011
-total weight = 18.2199
-h = 0.9425 m = 1771 angle5 = 4.98806 angle7 = 49.0048
-total height = 17.9442
-total weight = 18.2685
-h = 0.9426 m = 1769 angle5 = 4.9868 angle7 = 48.5063
-total height = 18.0993
-total weight = 18.1547
-h = 0.9426 m = 1770 angle5 = 4.9868 angle7 = 48.7195
-total height = 18.0333
-total weight = 18.2034
-h = 0.9426 m = 1771 angle5 = 4.9868 angle7 = 48.9338
-total height = 17.9668
-total weight = 18.2521
-h = 0.9427 m = 1770 angle5 = 4.98553 angle7 = 48.6489
-total height = 18.0556
-total weight = 18.1869
-h = 0.9427 m = 1771 angle5 = 4.98553 angle7 = 48.8628
-total height = 17.9892
-total weight = 18.2356
-h = 0.9427 m = 1772 angle5 = 4.98553 angle7 = 49.0779
-total height = 17.9223
-total weight = 18.2843
-h = 0.9428 m = 1770 angle5 = 4.98426 angle7 = 48.5784
-total height = 18.0778
-total weight = 18.1704
-h = 0.9428 m = 1771 angle5 = 4.98426 angle7 = 48.792
-total height = 18.0116
-total weight = 18.2191
-h = 0.9428 m = 1772 angle5 = 4.98426 angle7 = 49.0067
-total height = 17.9449
-total weight = 18.2678
-h = 0.9429 m = 1770 angle5 = 4.983 angle7 = 48.5081
-total height = 18.1
-total weight = 18.1539
-h = 0.9429 m = 1771 angle5 = 4.983 angle7 = 48.7213
-total height = 18.034
-total weight = 18.2026
-h = 0.9429 m = 1772 angle5 = 4.983 angle7 = 48.9356
-total height = 17.9674
-total weight = 18.2513
-h = 0.9429 m = 1773 angle5 = 4.983 angle7 = 49.1512
-total height = 17.9003
-total weight = 18.3
-h = 0.943 m = 1771 angle5 = 4.98173 angle7 = 48.6507
-total height = 18.0563
-total weight = 18.1861
-h = 0.943 m = 1772 angle5 = 4.98173 angle7 = 48.8647
-total height = 17.9899
-total weight = 18.2348
-h = 0.943 m = 1773 angle5 = 4.98173 angle7 = 49.0798
-total height = 17.9229
-total weight = 18.2835
-h = 0.9431 m = 1771 angle5 = 4.98047 angle7 = 48.5802
-total height = 18.0785
-total weight = 18.1696
-h = 0.9431 m = 1772 angle5 = 4.98047 angle7 = 48.7938
-total height = 18.0123
-total weight = 18.2183
-h = 0.9431 m = 1773 angle5 = 4.98047 angle7 = 49.0086
-total height = 17.9455
-total weight = 18.267
-h = 0.9432 m = 1772 angle5 = 4.9792 angle7 = 48.7231
-total height = 18.0346
-total weight = 18.2018
-h = 0.9432 m = 1773 angle5 = 4.9792 angle7 = 48.9375
-total height = 17.968
-total weight = 18.2505
-h = 0.9432 m = 1774 angle5 = 4.9792 angle7 = 49.1531
-total height = 17.9009
-total weight = 18.2993
-h = 0.9433 m = 1772 angle5 = 4.97794 angle7 = 48.6525
-total height = 18.0569
-total weight = 18.1853
-h = 0.9433 m = 1773 angle5 = 4.97794 angle7 = 48.8665
-total height = 17.9905
-total weight = 18.234
-h = 0.9433 m = 1774 angle5 = 4.97794 angle7 = 49.0817
-total height = 17.9235
-total weight = 18.2828
-h = 0.9434 m = 1772 angle5 = 4.97667 angle7 = 48.582
-total height = 18.0791
-total weight = 18.1688
-h = 0.9434 m = 1773 angle5 = 4.97667 angle7 = 48.7956
-total height = 18.0129
-total weight = 18.2175
-h = 0.9434 m = 1774 angle5 = 4.97667 angle7 = 49.0105
-total height = 17.9461
-total weight = 18.2663
-h = 0.9435 m = 1773 angle5 = 4.97541 angle7 = 48.7249
-total height = 18.0353
-total weight = 18.201
-h = 0.9435 m = 1774 angle5 = 4.97541 angle7 = 48.9393
-total height = 17.9687
-total weight = 18.2498
-h = 0.9435 m = 1775 angle5 = 4.97541 angle7 = 49.155
-total height = 17.9015
-total weight = 18.2985
-h = 0.9436 m = 1773 angle5 = 4.97415 angle7 = 48.6542
-total height = 18.0576
-total weight = 18.1845
-h = 0.9436 m = 1774 angle5 = 4.97415 angle7 = 48.8683
-total height = 17.9911
-total weight = 18.2333
-h = 0.9436 m = 1775 angle5 = 4.97415 angle7 = 49.0836
-total height = 17.9241
-total weight = 18.282
-h = 0.9437 m = 1773 angle5 = 4.97288 angle7 = 48.5837
-total height = 18.0798
-total weight = 18.168
-h = 0.9437 m = 1774 angle5 = 4.97288 angle7 = 48.7974
-total height = 18.0135
-total weight = 18.2168
-h = 0.9437 m = 1775 angle5 = 4.97288 angle7 = 49.0123
-total height = 17.9467
-total weight = 18.2655
-h = 0.9438 m = 1774 angle5 = 4.97162 angle7 = 48.7267
-total height = 18.0359
-total weight = 18.2002
-h = 0.9438 m = 1775 angle5 = 4.97162 angle7 = 48.9412
-total height = 17.9693
-total weight = 18.249
-h = 0.9438 m = 1776 angle5 = 4.97162 angle7 = 49.1569
-total height = 17.9021
-total weight = 18.2978
-h = 0.9439 m = 1774 angle5 = 4.97036 angle7 = 48.656
-total height = 18.0582
-total weight = 18.1837
-h = 0.9439 m = 1775 angle5 = 4.97036 angle7 = 48.8701
-total height = 17.9918
-total weight = 18.2325
-h = 0.9439 m = 1776 angle5 = 4.97036 angle7 = 49.0855
-total height = 17.9248
-total weight = 18.2812
-h = 0.944 m = 1774 angle5 = 4.9691 angle7 = 48.5855
-total height = 18.0805
-total weight = 18.1672
-h = 0.944 m = 1775 angle5 = 4.9691 angle7 = 48.7992
-total height = 18.0142
-total weight = 18.216
-h = 0.944 m = 1776 angle5 = 4.9691 angle7 = 49.0142
-total height = 17.9474
-total weight = 18.2647
-h = 0.9441 m = 1775 angle5 = 4.96784 angle7 = 48.7285
-total height = 18.0365
-total weight = 18.1995
-h = 0.9441 m = 1776 angle5 = 4.96784 angle7 = 48.943
-total height = 17.9699
-total weight = 18.2482
-h = 0.9441 m = 1777 angle5 = 4.96784 angle7 = 49.1587
-total height = 17.9027
-total weight = 18.297
-h = 0.9442 m = 1775 angle5 = 4.96658 angle7 = 48.6578
-total height = 18.0589
-total weight = 18.183
-h = 0.9442 m = 1776 angle5 = 4.96658 angle7 = 48.872
-total height = 17.9924
-total weight = 18.2317
-h = 0.9442 m = 1777 angle5 = 4.96658 angle7 = 49.0873
-total height = 17.9254
-total weight = 18.2805
-h = 0.9443 m = 1775 angle5 = 4.96532 angle7 = 48.5872
-total height = 18.0811
-total weight = 18.1664
-h = 0.9443 m = 1776 angle5 = 4.96532 angle7 = 48.8011
-total height = 18.0148
-total weight = 18.2152
-h = 0.9443 m = 1777 angle5 = 4.96532 angle7 = 49.016
-total height = 17.948
-total weight = 18.264
-h = 0.9444 m = 1776 angle5 = 4.96406 angle7 = 48.7303
-total height = 18.0372
-total weight = 18.1987
-h = 0.9444 m = 1777 angle5 = 4.96406 angle7 = 48.9449
-total height = 17.9705
-total weight = 18.2475
-h = 0.9444 m = 1778 angle5 = 4.96406 angle7 = 49.1606
-total height = 17.9034
-total weight = 18.2963
-h = 0.9445 m = 1776 angle5 = 4.9628 angle7 = 48.6596
-total height = 18.0595
-total weight = 18.1822
-h = 0.9445 m = 1777 angle5 = 4.9628 angle7 = 48.8738
-total height = 17.993
-total weight = 18.2309
-h = 0.9445 m = 1778 angle5 = 4.9628 angle7 = 49.0892
-total height = 17.926
-total weight = 18.2797
-h = 0.9446 m = 1776 angle5 = 4.96154 angle7 = 48.589
-total height = 18.0818
-total weight = 18.1657
-h = 0.9446 m = 1777 angle5 = 4.96154 angle7 = 48.8029
-total height = 18.0155
-total weight = 18.2144
-h = 0.9446 m = 1778 angle5 = 4.96154 angle7 = 49.0179
-total height = 17.9486
-total weight = 18.2632
-h = 0.9447 m = 1777 angle5 = 4.96028 angle7 = 48.732
-total height = 18.0378
-total weight = 18.1979
-h = 0.9447 m = 1778 angle5 = 4.96028 angle7 = 48.9467
-total height = 17.9712
-total weight = 18.2467
-h = 0.9447 m = 1779 angle5 = 4.96028 angle7 = 49.1625
-total height = 17.904
-total weight = 18.2955
-h = 0.9448 m = 1777 angle5 = 4.95902 angle7 = 48.6613
-total height = 18.0602
-total weight = 18.1814
-h = 0.9448 m = 1778 angle5 = 4.95902 angle7 = 48.8756
-total height = 17.9937
-total weight = 18.2302
-h = 0.9448 m = 1779 angle5 = 4.95902 angle7 = 49.0911
-total height = 17.9266
-total weight = 18.279
-h = 0.9449 m = 1777 angle5 = 4.95776 angle7 = 48.5908
-total height = 18.0824
-total weight = 18.1649
-h = 0.9449 m = 1778 angle5 = 4.95776 angle7 = 48.8047
-total height = 18.0161
-total weight = 18.2137
-h = 0.9449 m = 1779 angle5 = 4.95776 angle7 = 49.0197
-total height = 17.9493
-total weight = 18.2625
-h = 0.945 m = 1778 angle5 = 4.9565 angle7 = 48.7338
-total height = 18.0385
-total weight = 18.1971
-h = 0.945 m = 1779 angle5 = 4.9565 angle7 = 48.9485
-total height = 17.9718
-total weight = 18.2459
-h = 0.945 m = 1780 angle5 = 4.9565 angle7 = 49.1644
-total height = 17.9046
-total weight = 18.2948
-h = 0.9451 m = 1778 angle5 = 4.95525 angle7 = 48.6631
-total height = 18.0608
-total weight = 18.1806
-h = 0.9451 m = 1779 angle5 = 4.95525 angle7 = 48.8774
-total height = 17.9943
-total weight = 18.2294
-h = 0.9451 m = 1780 angle5 = 4.95525 angle7 = 49.0929
-total height = 17.9273
-total weight = 18.2782
-h = 0.9452 m = 1778 angle5 = 4.95399 angle7 = 48.5925
-total height = 18.0831
-total weight = 18.1641
-h = 0.9452 m = 1779 angle5 = 4.95399 angle7 = 48.8065
-total height = 18.0167
-total weight = 18.2129
-h = 0.9452 m = 1780 angle5 = 4.95399 angle7 = 49.0216
-total height = 17.9499
-total weight = 18.2617
-h = 0.9453 m = 1779 angle5 = 4.95273 angle7 = 48.7356
-total height = 18.0391
-total weight = 18.1964
-h = 0.9453 m = 1780 angle5 = 4.95273 angle7 = 48.9503
-total height = 17.9724
-total weight = 18.2452
-h = 0.9453 m = 1781 angle5 = 4.95273 angle7 = 49.1663
-total height = 17.9052
-total weight = 18.294
-h = 0.9454 m = 1779 angle5 = 4.95148 angle7 = 48.6649
-total height = 18.0615
-total weight = 18.1798
-h = 0.9454 m = 1780 angle5 = 4.95148 angle7 = 48.8792
-total height = 17.9949
-total weight = 18.2286
-h = 0.9454 m = 1781 angle5 = 4.95148 angle7 = 49.0948
-total height = 17.9279
-total weight = 18.2775
-h = 0.9455 m = 1779 angle5 = 4.95022 angle7 = 48.5942
-total height = 18.0837
-total weight = 18.1633
-h = 0.9455 m = 1780 angle5 = 4.95022 angle7 = 48.8082
-total height = 18.0174
-total weight = 18.2121
-h = 0.9455 m = 1781 angle5 = 4.95022 angle7 = 49.0234
-total height = 17.9505
-total weight = 18.2609
-h = 0.9456 m = 1780 angle5 = 4.94897 angle7 = 48.7374
-total height = 18.0398
-total weight = 18.1956
-h = 0.9456 m = 1781 angle5 = 4.94897 angle7 = 48.9522
-total height = 17.9731
-total weight = 18.2444
-h = 0.9456 m = 1782 angle5 = 4.94897 angle7 = 49.1682
-total height = 17.9058
-total weight = 18.2933
-h = 0.9457 m = 1780 angle5 = 4.94771 angle7 = 48.6666
-total height = 18.0621
-total weight = 18.179
-h = 0.9457 m = 1781 angle5 = 4.94771 angle7 = 48.881
-total height = 17.9956
-total weight = 18.2279
-h = 0.9457 m = 1782 angle5 = 4.94771 angle7 = 49.0966
-total height = 17.9285
-total weight = 18.2767
-h = 0.9458 m = 1780 angle5 = 4.94646 angle7 = 48.596
-total height = 18.0844
-total weight = 18.1625
-h = 0.9458 m = 1781 angle5 = 4.94646 angle7 = 48.81
-total height = 18.018
-total weight = 18.2113
-h = 0.9458 m = 1782 angle5 = 4.94646 angle7 = 49.0253
-total height = 17.9511
-total weight = 18.2602
-h = 0.9459 m = 1781 angle5 = 4.9452 angle7 = 48.7391
-total height = 18.0404
-total weight = 18.1948
-h = 0.9459 m = 1782 angle5 = 4.9452 angle7 = 48.954
-total height = 17.9737
-total weight = 18.2436
-h = 0.9459 m = 1783 angle5 = 4.9452 angle7 = 49.17
-total height = 17.9064
-total weight = 18.2925
-h = 0.946 m = 1781 angle5 = 4.94395 angle7 = 48.6684
-total height = 18.0628
-total weight = 18.1783
-h = 0.946 m = 1782 angle5 = 4.94395 angle7 = 48.8829
-total height = 17.9962
-total weight = 18.2271
-h = 0.946 m = 1783 angle5 = 4.94395 angle7 = 49.0985
-total height = 17.9291
-total weight = 18.276
-h = 0.9461 m = 1781 angle5 = 4.9427 angle7 = 48.5977
-total height = 18.085
-total weight = 18.1617
-h = 0.9461 m = 1782 angle5 = 4.9427 angle7 = 48.8118
-total height = 18.0187
-total weight = 18.2106
-h = 0.9461 m = 1783 angle5 = 4.9427 angle7 = 49.0271
-total height = 17.9518
-total weight = 18.2594
-h = 0.9462 m = 1782 angle5 = 4.94144 angle7 = 48.7409
-total height = 18.0411
-total weight = 18.194
-h = 0.9462 m = 1783 angle5 = 4.94144 angle7 = 48.9558
-total height = 17.9743
-total weight = 18.2429
-h = 0.9462 m = 1784 angle5 = 4.94144 angle7 = 49.1719
-total height = 17.9071
-total weight = 18.2918
-h = 0.9463 m = 1782 angle5 = 4.94019 angle7 = 48.6701
-total height = 18.0634
-total weight = 18.1775
-h = 0.9463 m = 1783 angle5 = 4.94019 angle7 = 48.8847
-total height = 17.9969
-total weight = 18.2263
-h = 0.9463 m = 1784 angle5 = 4.94019 angle7 = 49.1004
-total height = 17.9298
-total weight = 18.2752
-h = 0.9464 m = 1782 angle5 = 4.93894 angle7 = 48.5995
-total height = 18.0857
-total weight = 18.1609
-h = 0.9464 m = 1783 angle5 = 4.93894 angle7 = 48.8136
-total height = 18.0193
-total weight = 18.2098
-h = 0.9464 m = 1784 angle5 = 4.93894 angle7 = 49.0289
-total height = 17.9524
-total weight = 18.2587
-h = 0.9465 m = 1783 angle5 = 4.93769 angle7 = 48.7427
-total height = 18.0417
-total weight = 18.1932
-h = 0.9465 m = 1784 angle5 = 4.93769 angle7 = 48.9576
-total height = 17.975
-total weight = 18.2421
-h = 0.9465 m = 1785 angle5 = 4.93769 angle7 = 49.1738
-total height = 17.9077
-total weight = 18.291
-h = 0.9466 m = 1783 angle5 = 4.93644 angle7 = 48.6719
-total height = 18.0641
-total weight = 18.1767
-h = 0.9466 m = 1784 angle5 = 4.93644 angle7 = 48.8865
-total height = 17.9975
-total weight = 18.2256
-h = 0.9466 m = 1785 angle5 = 4.93644 angle7 = 49.1022
-total height = 17.9304
-total weight = 18.2745
-h = 0.9467 m = 1783 angle5 = 4.93519 angle7 = 48.6012
-total height = 18.0863
-total weight = 18.1602
-h = 0.9467 m = 1784 angle5 = 4.93519 angle7 = 48.8154
-total height = 18.0199
-total weight = 18.209
-h = 0.9467 m = 1785 angle5 = 4.93519 angle7 = 49.0308
-total height = 17.953
-total weight = 18.2579
-h = 0.9468 m = 1784 angle5 = 4.93394 angle7 = 48.7445
-total height = 18.0424
-total weight = 18.1925
-h = 0.9468 m = 1785 angle5 = 4.93394 angle7 = 48.9594
-total height = 17.9756
-total weight = 18.2414
-h = 0.9468 m = 1786 angle5 = 4.93394 angle7 = 49.1756
-total height = 17.9083
-total weight = 18.2903
-h = 0.9469 m = 1784 angle5 = 4.93269 angle7 = 48.6736
-total height = 18.0647
-total weight = 18.1759
-h = 0.9469 m = 1785 angle5 = 4.93269 angle7 = 48.8882
-total height = 17.9981
-total weight = 18.2248
-h = 0.9469 m = 1786 angle5 = 4.93269 angle7 = 49.104
-total height = 17.931
-total weight = 18.2737
-h = 0.947 m = 1784 angle5 = 4.93144 angle7 = 48.6029
-total height = 18.087
-total weight = 18.1594
-h = 0.947 m = 1785 angle5 = 4.93144 angle7 = 48.8172
-total height = 18.0206
-total weight = 18.2083
-h = 0.947 m = 1786 angle5 = 4.93144 angle7 = 49.0326
-total height = 17.9536
-total weight = 18.2572
-h = 0.9471 m = 1785 angle5 = 4.93019 angle7 = 48.7462
-total height = 18.043
-total weight = 18.1917
-h = 0.9471 m = 1786 angle5 = 4.93019 angle7 = 48.9613
-total height = 17.9762
-total weight = 18.2406
-h = 0.9471 m = 1787 angle5 = 4.93019 angle7 = 49.1775
-total height = 17.9089
-total weight = 18.2895
-h = 0.9472 m = 1785 angle5 = 4.92894 angle7 = 48.6754
-total height = 18.0653
-total weight = 18.1751
-h = 0.9472 m = 1786 angle5 = 4.92894 angle7 = 48.89
-total height = 17.9988
-total weight = 18.224
-h = 0.9472 m = 1787 angle5 = 4.92894 angle7 = 49.1059
-total height = 17.9316
-total weight = 18.273
-h = 0.9473 m = 1785 angle5 = 4.92769 angle7 = 48.6047
-total height = 18.0876
-total weight = 18.1586
-h = 0.9473 m = 1786 angle5 = 4.92769 angle7 = 48.8189
-total height = 18.0212
-total weight = 18.2075
-h = 0.9473 m = 1787 angle5 = 4.92769 angle7 = 49.0344
-total height = 17.9543
-total weight = 18.2564
-h = 0.9474 m = 1786 angle5 = 4.92644 angle7 = 48.748
-total height = 18.0436
-total weight = 18.1909
-h = 0.9474 m = 1787 angle5 = 4.92644 angle7 = 48.9631
-total height = 17.9769
-total weight = 18.2398
-h = 0.9474 m = 1788 angle5 = 4.92644 angle7 = 49.1793
-total height = 17.9095
-total weight = 18.2888
-h = 0.9475 m = 1786 angle5 = 4.92519 angle7 = 48.6771
-total height = 18.066
-total weight = 18.1744
-h = 0.9475 m = 1787 angle5 = 4.92519 angle7 = 48.8918
-total height = 17.9994
-total weight = 18.2233
-h = 0.9475 m = 1788 angle5 = 4.92519 angle7 = 49.1077
-total height = 17.9322
-total weight = 18.2722
-h = 0.9476 m = 1786 angle5 = 4.92395 angle7 = 48.6064
-total height = 18.0883
-total weight = 18.1578
-h = 0.9476 m = 1787 angle5 = 4.92395 angle7 = 48.8207
-total height = 18.0219
-total weight = 18.2067
-h = 0.9476 m = 1788 angle5 = 4.92395 angle7 = 49.0362
-total height = 17.9549
-total weight = 18.2556
-h = 0.9477 m = 1787 angle5 = 4.9227 angle7 = 48.7497
-total height = 18.0443
-total weight = 18.1902
-h = 0.9477 m = 1788 angle5 = 4.9227 angle7 = 48.9649
-total height = 17.9775
-total weight = 18.2391
-h = 0.9477 m = 1789 angle5 = 4.9227 angle7 = 49.1812
-total height = 17.9101
-total weight = 18.288
-h = 0.9478 m = 1787 angle5 = 4.92145 angle7 = 48.6789
-total height = 18.0666
-total weight = 18.1736
-h = 0.9478 m = 1788 angle5 = 4.92145 angle7 = 48.8936
-total height = 18
-total weight = 18.2225
-h = 0.9478 m = 1789 angle5 = 4.92145 angle7 = 49.1096
-total height = 17.9329
-total weight = 18.2714
-h = 0.9479 m = 1787 angle5 = 4.92021 angle7 = 48.6081
-total height = 18.0889
-total weight = 18.157
-h = 0.9479 m = 1788 angle5 = 4.92021 angle7 = 48.8225
-total height = 18.0225
-total weight = 18.2059
-h = 0.9479 m = 1789 angle5 = 4.92021 angle7 = 49.0381
-total height = 17.9555
-total weight = 18.2549
-h = 0.948 m = 1788 angle5 = 4.91896 angle7 = 48.7515
-total height = 18.0449
-total weight = 18.1894
-h = 0.948 m = 1789 angle5 = 4.91896 angle7 = 48.9667
-total height = 17.9781
-total weight = 18.2383
-h = 0.948 m = 1790 angle5 = 4.91896 angle7 = 49.183
-total height = 17.9108
-total weight = 18.2873
-h = 0.9481 m = 1788 angle5 = 4.91772 angle7 = 48.6806
-total height = 18.0673
-total weight = 18.1728
-h = 0.9481 m = 1789 angle5 = 4.91772 angle7 = 48.8954
-total height = 18.0007
-total weight = 18.2217
-h = 0.9481 m = 1790 angle5 = 4.91772 angle7 = 49.1114
-total height = 17.9335
-total weight = 18.2707
-h = 0.9482 m = 1788 angle5 = 4.91647 angle7 = 48.6098
-total height = 18.0896
-total weight = 18.1562
-h = 0.9482 m = 1789 angle5 = 4.91647 angle7 = 48.8243
-total height = 18.0231
-total weight = 18.2052
-h = 0.9482 m = 1790 angle5 = 4.91647 angle7 = 49.0399
-total height = 17.9561
-total weight = 18.2541
-h = 0.9483 m = 1789 angle5 = 4.91523 angle7 = 48.7532
-total height = 18.0456
-total weight = 18.1886
-h = 0.9483 m = 1790 angle5 = 4.91523 angle7 = 48.9685
-total height = 17.9787
-total weight = 18.2376
-h = 0.9483 m = 1791 angle5 = 4.91523 angle7 = 49.1849
-total height = 17.9114
-total weight = 18.2865
-h = 0.9484 m = 1789 angle5 = 4.91398 angle7 = 48.6823
-total height = 18.0679
-total weight = 18.172
-h = 0.9484 m = 1790 angle5 = 4.91398 angle7 = 48.8972
-total height = 18.0013
-total weight = 18.221
-h = 0.9484 m = 1791 angle5 = 4.91398 angle7 = 49.1132
-total height = 17.9341
-total weight = 18.2699
-h = 0.9485 m = 1789 angle5 = 4.91274 angle7 = 48.6115
-total height = 18.0902
-total weight = 18.1555
-h = 0.9485 m = 1790 angle5 = 4.91274 angle7 = 48.826
-total height = 18.0238
-total weight = 18.2044
-h = 0.9485 m = 1791 angle5 = 4.91274 angle7 = 49.0417
-total height = 17.9568
-total weight = 18.2534
-h = 0.9486 m = 1790 angle5 = 4.9115 angle7 = 48.755
-total height = 18.0462
-total weight = 18.1878
-h = 0.9486 m = 1791 angle5 = 4.9115 angle7 = 48.9703
-total height = 17.9794
-total weight = 18.2368
-h = 0.9486 m = 1792 angle5 = 4.9115 angle7 = 49.1867
-total height = 17.912
-total weight = 18.2858
-h = 0.9487 m = 1790 angle5 = 4.91025 angle7 = 48.684
-total height = 18.0686
-total weight = 18.1713
-h = 0.9487 m = 1791 angle5 = 4.91025 angle7 = 48.899
-total height = 18.0019
-total weight = 18.2202
-h = 0.9487 m = 1792 angle5 = 4.91025 angle7 = 49.1151
-total height = 17.9347
-total weight = 18.2692
-h = 0.9488 m = 1790 angle5 = 4.90901 angle7 = 48.6132
-total height = 18.0909
-total weight = 18.1547
-h = 0.9488 m = 1791 angle5 = 4.90901 angle7 = 48.8278
-total height = 18.0244
-total weight = 18.2036
-h = 0.9488 m = 1792 angle5 = 4.90901 angle7 = 49.0435
-total height = 17.9574
-total weight = 18.2526
-h = 0.9489 m = 1791 angle5 = 4.90777 angle7 = 48.7567
-total height = 18.0469
-total weight = 18.1871
-h = 0.9489 m = 1792 angle5 = 4.90777 angle7 = 48.9721
-total height = 17.98
-total weight = 18.236
-h = 0.9489 m = 1793 angle5 = 4.90777 angle7 = 49.1886
-total height = 17.9126
-total weight = 18.285
-h = 0.949 m = 1791 angle5 = 4.90653 angle7 = 48.6858
-total height = 18.0692
-total weight = 18.1705
-h = 0.949 m = 1792 angle5 = 4.90653 angle7 = 48.9007
-total height = 18.0026
-total weight = 18.2195
-h = 0.949 m = 1793 angle5 = 4.90653 angle7 = 49.1169
-total height = 17.9353
-total weight = 18.2684
-h = 0.9491 m = 1791 angle5 = 4.90529 angle7 = 48.6149
-total height = 18.0916
-total weight = 18.1539
-h = 0.9491 m = 1792 angle5 = 4.90529 angle7 = 48.8295
-total height = 18.0251
-total weight = 18.2029
-h = 0.9491 m = 1793 angle5 = 4.90529 angle7 = 49.0453
-total height = 17.958
-total weight = 18.2519
-h = 0.9492 m = 1792 angle5 = 4.90404 angle7 = 48.7585
-total height = 18.0475
-total weight = 18.1863
-h = 0.9492 m = 1793 angle5 = 4.90404 angle7 = 48.9738
-total height = 17.9806
-total weight = 18.2353
-h = 0.9492 m = 1794 angle5 = 4.90404 angle7 = 49.1904
-total height = 17.9132
-total weight = 18.2843
-h = 0.9493 m = 1792 angle5 = 4.9028 angle7 = 48.6875
-total height = 18.0699
-total weight = 18.1697
-h = 0.9493 m = 1793 angle5 = 4.9028 angle7 = 48.9025
-total height = 18.0032
-total weight = 18.2187
-h = 0.9493 m = 1794 angle5 = 4.9028 angle7 = 49.1187
-total height = 17.936
-total weight = 18.2677
-h = 0.9494 m = 1792 angle5 = 4.90156 angle7 = 48.6167
-total height = 18.0922
-total weight = 18.1531
-h = 0.9494 m = 1793 angle5 = 4.90156 angle7 = 48.8313
-total height = 18.0257
-total weight = 18.2021
-h = 0.9494 m = 1794 angle5 = 4.90156 angle7 = 49.0471
-total height = 17.9586
-total weight = 18.2511
-h = 0.9495 m = 1793 angle5 = 4.90032 angle7 = 48.7602
-total height = 18.0481
-total weight = 18.1855
-h = 0.9495 m = 1794 angle5 = 4.90032 angle7 = 48.9756
-total height = 17.9813
-total weight = 18.2345
-h = 0.9495 m = 1795 angle5 = 4.90032 angle7 = 49.1923
-total height = 17.9138
-total weight = 18.2835
-h = 0.9496 m = 1793 angle5 = 4.89908 angle7 = 48.6892
-total height = 18.0705
-total weight = 18.1689
-h = 0.9496 m = 1794 angle5 = 4.89908 angle7 = 48.9043
-total height = 18.0038
-total weight = 18.2179
-h = 0.9496 m = 1795 angle5 = 4.89908 angle7 = 49.1205
-total height = 17.9366
-total weight = 18.2669
-h = 0.9497 m = 1793 angle5 = 4.89785 angle7 = 48.6184
-total height = 18.0929
-total weight = 18.1523
-h = 0.9497 m = 1794 angle5 = 4.89785 angle7 = 48.833
-total height = 18.0263
-total weight = 18.2013
-h = 0.9497 m = 1795 angle5 = 4.89785 angle7 = 49.0489
-total height = 17.9593
-total weight = 18.2504
-h = 0.9498 m = 1794 angle5 = 4.89661 angle7 = 48.7619
-total height = 18.0488
-total weight = 18.1847
-h = 0.9498 m = 1795 angle5 = 4.89661 angle7 = 48.9774
-total height = 17.9819
-total weight = 18.2338
-h = 0.9498 m = 1796 angle5 = 4.89661 angle7 = 49.1941
-total height = 17.9144
-total weight = 18.2828
-h = 0.9499 m = 1794 angle5 = 4.89537 angle7 = 48.6909
-total height = 18.0712
-total weight = 18.1681
-h = 0.9499 m = 1795 angle5 = 4.89537 angle7 = 48.906
-total height = 18.0045
-total weight = 18.2172
-h = 0.9499 m = 1796 angle5 = 4.89537 angle7 = 49.1223
-total height = 17.9372
-total weight = 18.2662
-h = 0.95 m = 1794 angle5 = 4.89413 angle7 = 48.62
-total height = 18.0935
-total weight = 18.1516
-h = 0.95 m = 1795 angle5 = 4.89413 angle7 = 48.8348
-total height = 18.027
-total weight = 18.2006
-h = 0.95 m = 1796 angle5 = 4.89413 angle7 = 49.0507
-total height = 17.9599
-total weight = 18.2496
-h = 0.9501 m = 1795 angle5 = 4.89289 angle7 = 48.7636
-total height = 18.0494
-total weight = 18.184
-h = 0.9501 m = 1796 angle5 = 4.89289 angle7 = 48.9792
-total height = 17.9825
-total weight = 18.233
-h = 0.9501 m = 1797 angle5 = 4.89289 angle7 = 49.1959
-total height = 17.9151
-total weight = 18.2821
-h = 0.9502 m = 1795 angle5 = 4.89166 angle7 = 48.6926
-total height = 18.0718
-total weight = 18.1674
-h = 0.9502 m = 1796 angle5 = 4.89166 angle7 = 48.9078
-total height = 18.0051
-total weight = 18.2164
-h = 0.9502 m = 1797 angle5 = 4.89166 angle7 = 49.1241
-total height = 17.9378
-total weight = 18.2655
-h = 0.9503 m = 1795 angle5 = 4.89042 angle7 = 48.6217
-total height = 18.0942
-total weight = 18.1508
-h = 0.9503 m = 1796 angle5 = 4.89042 angle7 = 48.8365
-total height = 18.0276
-total weight = 18.1998
-h = 0.9503 m = 1797 angle5 = 4.89042 angle7 = 49.0525
-total height = 17.9605
-total weight = 18.2488
-h = 0.9504 m = 1796 angle5 = 4.88918 angle7 = 48.7654
-total height = 18.0501
-total weight = 18.1832
-h = 0.9504 m = 1797 angle5 = 4.88918 angle7 = 48.981
-total height = 17.9831
-total weight = 18.2322
-h = 0.9504 m = 1798 angle5 = 4.88918 angle7 = 49.1977
-total height = 17.9157
-total weight = 18.2813
-h = 0.9505 m = 1796 angle5 = 4.88795 angle7 = 48.6943
-total height = 18.0725
-total weight = 18.1666
-h = 0.9505 m = 1797 angle5 = 4.88795 angle7 = 48.9096
-total height = 18.0057
-total weight = 18.2156
-h = 0.9505 m = 1798 angle5 = 4.88795 angle7 = 49.126
-total height = 17.9384
-total weight = 18.2647
-h = 0.9506 m = 1796 angle5 = 4.88671 angle7 = 48.6234
-total height = 18.0948
-total weight = 18.15
-h = 0.9506 m = 1797 angle5 = 4.88671 angle7 = 48.8383
-total height = 18.0282
-total weight = 18.199
-h = 0.9506 m = 1798 angle5 = 4.88671 angle7 = 49.0543
-total height = 17.9611
-total weight = 18.2481
-h = 0.9507 m = 1797 angle5 = 4.88548 angle7 = 48.7671
-total height = 18.0507
-total weight = 18.1824
-h = 0.9507 m = 1798 angle5 = 4.88548 angle7 = 48.9827
-total height = 17.9838
-total weight = 18.2315
-h = 0.9507 m = 1799 angle5 = 4.88548 angle7 = 49.1996
-total height = 17.9163
-total weight = 18.2806
-h = 0.9508 m = 1797 angle5 = 4.88424 angle7 = 48.6961
-total height = 18.0731
-total weight = 18.1658
-h = 0.9508 m = 1798 angle5 = 4.88424 angle7 = 48.9113
-total height = 18.0064
-total weight = 18.2149
-h = 0.9508 m = 1799 angle5 = 4.88424 angle7 = 49.1278
-total height = 17.9391
-total weight = 18.264
-h = 0.9509 m = 1797 angle5 = 4.88301 angle7 = 48.6251
-total height = 18.0955
-total weight = 18.1492
-h = 0.9509 m = 1798 angle5 = 4.88301 angle7 = 48.84
-total height = 18.0289
-total weight = 18.1983
-h = 0.9509 m = 1799 angle5 = 4.88301 angle7 = 49.0561
-total height = 17.9618
-total weight = 18.2473
-h = 0.951 m = 1798 angle5 = 4.88177 angle7 = 48.7688
-total height = 18.0514
-total weight = 18.1817
-h = 0.951 m = 1799 angle5 = 4.88177 angle7 = 48.9845
-total height = 17.9844
-total weight = 18.2307
-h = 0.951 m = 1800 angle5 = 4.88177 angle7 = 49.2014
-total height = 17.9169
-total weight = 18.2798
-h = 0.9511 m = 1798 angle5 = 4.88054 angle7 = 48.6978
-total height = 18.0738
-total weight = 18.165
-h = 0.9511 m = 1799 angle5 = 4.88054 angle7 = 48.9131
-total height = 18.007
-total weight = 18.2141
-h = 0.9511 m = 1800 angle5 = 4.88054 angle7 = 49.1296
-total height = 17.9397
-total weight = 18.2632
-h = 0.9512 m = 1798 angle5 = 4.87931 angle7 = 48.6268
-total height = 18.0961
-total weight = 18.1484
-h = 0.9512 m = 1799 angle5 = 4.87931 angle7 = 48.8417
-total height = 18.0295
-total weight = 18.1975
-h = 0.9512 m = 1800 angle5 = 4.87931 angle7 = 49.0579
-total height = 17.9624
-total weight = 18.2466
-h = 0.9513 m = 1799 angle5 = 4.87807 angle7 = 48.7705
-total height = 18.052
-total weight = 18.1809
-h = 0.9513 m = 1800 angle5 = 4.87807 angle7 = 48.9863
-total height = 17.985
-total weight = 18.23
-h = 0.9514 m = 1799 angle5 = 4.87684 angle7 = 48.6995
-total height = 18.0744
-total weight = 18.1643
-h = 0.9514 m = 1800 angle5 = 4.87684 angle7 = 48.9148
-total height = 18.0076
-total weight = 18.2134
-h = 0.9515 m = 1799 angle5 = 4.87561 angle7 = 48.6285
-total height = 18.0968
-total weight = 18.1477
-h = 0.9515 m = 1800 angle5 = 4.87561 angle7 = 48.8435
-total height = 18.0302
-total weight = 18.1967
-h = 0.9516 m = 1800 angle5 = 4.87438 angle7 = 48.7723
-total height = 18.0526
-total weight = 18.1801
-h = 0.9517 m = 1800 angle5 = 4.87315 angle7 = 48.7012
-total height = 18.0751
-total weight = 18.1635
-h = 0.9518 m = 1800 angle5 = 4.87192 angle7 = 48.6302
-total height = 18.0974
-total weight = 18.1469
+0.95 1872
+0.95 1873
+0.95 1874
+0.95 2126
+0.95 2127
+0.95 2128
+0.96 1905
+0.96 1906
+0.96 1907
+0.96 2157
+0.96 2158
+0.96 2159
+0.97 1939
+0.97 1940
+0.97 2188
+0.97 2189
+0.97 2190
+0.98 1972
+0.98 1973
+0.98 1974
+0.98 2219
+0.98 2220
+0.99 2005
+0.99 2006
+0.99 2007
+0.99 2250
+0.99 2251
+1 2039
+1 2040
+1 2041
+1 2281
+1 2282
+1.01 2072
+1.01 2073
+1.01 2074
+1.01 2312
+1.01 2313
+1.02 2106
+1.02 2107
+1.02 2108
+1.02 2343
+1.02 2344
+1.03 2139
+1.03 2140
+1.03 2141
+1.03 2374
+1.03 2375
+1.04 2173
+1.04 2174
+1.04 2405
+1.04 2406
+1.05 2206
+1.05 2207
+1.05 2208
+1.05 2436
+1.05 2437
+1.06 2239
+1.06 2240
+1.06 2241
+1.06 2467
+1.06 2468
+1.07 2273
+1.07 2274
+1.07 2275
+1.07 2498
+1.07 2499
+1.08 2306
+1.08 2307
+1.08 2308
+1.08 2529
+1.08 2530
+1.09 2340
+1.09 2341
+1.09 2560
+1.09 2561
+1.1 2373
+1.1 2374
+1.1 2375
+1.1 2591
+1.1 2592
+1.11 2407
+1.11 2408
+1.11 2622
+1.11 2623
+1.12 2440
+1.12 2441
+1.12 2442
+1.12 2653
+1.12 2654
+1.13 2473
+1.13 2474
+1.13 2475
+1.13 2684
+1.13 2685
+1.14 2507
+1.14 2508
+1.14 2715
+1.14 2716
+1.15 2540
+1.15 2541
+1.15 2542
+1.15 2746
+1.15 2747
+1.16 2574
+1.16 2575
+1.16 2777
+1.16 2778
+1.17 2607
+1.17 2608
+1.17 2609
+1.17 2808
+1.17 2809
+1.18 2641
+1.18 2642
+1.18 2839
+1.18 2840
+1.19 2674
+1.19 2675
+1.19 2870
+1.19 2871
+1.2 2707
+1.2 2708
+1.2 2709
+1.2 2901
+1.2 2902
+1.21 2741
+1.21 2742
+1.21 2932
+1.21 2933
+1.22 2774
+1.22 2775
+1.22 2963
+1.22 2964
+1.23 2808
+1.23 2809
+1.23 2994
+1.23 2995
+1.24 2841
+1.24 2842
+1.24 3025
+1.24 3026
+1.25 2875
+1.25 2876
+1.25 3056
+1.25 3057
+1.26 2908
+1.26 2909
+1.26 3087
+1.26 3088
+1.27 2941
+1.27 2942
+1.27 3118
+1.27 3119
+1.28 2975
+1.28 2976
+1.28 3149
+1.28 3150
+1.29 3008
+1.29 3009
+1.29 3180
+1.29 3181
+1.3 3042
+1.3 3043
+1.3 3211
+1.3 3212
+1.31 3075
+1.31 3076
+1.31 3242
+1.31 3243
+1.32 3109
+1.32 3273
+1.32 3274
+1.33 3142
+1.33 3143
+1.33 3304
+1.33 3305
+1.34 3175
+1.34 3176
+1.34 3335
+1.34 3336
+1.35 3209
+1.35 3210
+1.35 3366
+1.35 3367
+1.36 3242
+1.36 3243
+1.36 3397
+1.36 3398
+1.37 3276
+1.37 3428
+1.37 3429
+1.38 3309
+1.38 3310
+1.38 3459
+1.38 3460
+1.39 3342
+1.39 3343
+1.39 3490
+1.4 3376
+1.4 3377
+1.4 3521
+1.41 3409
+1.41 3410
+1.41 3552
+1.42 3443
+1.42 3583
+1.43 3476
+1.43 3477
+1.43 3614
+1.44 3510
+1.44 3645
+1.45 3543
+1.45 3544
+1.45 3676
+1.46 3576
+1.46 3577
+1.46 3707
+1.47 3610
+1.47 3738
+1.48 3643
+1.48 3644
+1.48 3769
+1.49 3677
+1.49 3800
+1.5 3710
+1.5 3711
+1.5 3831
+1.51 3744
+1.51 3862
+1.52 3777
+1.52 3893
+1.53 3810
+1.53 3811
+1.53 3924
+1.54 3844
+1.54 3955
+1.55 3877
+1.55 3878
+1.55 3986
+1.56 3911
+1.56 4017
+1.57 3944
+1.57 4048
+1.58 3978
+1.58 4079
+1.59 4011
+1.59 4110
+1.6 4044
+1.6 4045
+1.6 4141
+1.61 4078
+1.61 4172
+1.62 4111
+1.62 4203
+1.63 4145
+1.63 4234
+1.64 4178
+1.64 4265
+1.65 4211
+1.65 4296
+1.66 4245
+1.66 4327
+1.67 4278
+1.67 4358
+1.68 4312
+1.68 4389
+1.69 4345
+1.69 4420
+1.7 4451
+1.71 4412
+1.71 4482
+1.72 4445
+1.72 4513
+1.73 4479
+1.73 4544
+1.74 4512
+1.74 4575
+1.75 4606
+1.76 4579
+1.76 4637
+1.77 4668
+1.78 4646
+1.78 4699
+1.79 4679
+1.79 4730
+1.8 4761
+1.81 4746
+1.81 4792
+1.82 4823
+1.83 4813
+1.83 4854
+1.84 4885
+1.85 4916
+1.86 4913
+1.86 4947
+1.87 4978
+1.88 4980
+1.88 5009
+1.91 5080
+1.93 5147
