@@ -1,0 +1,66 @@
+#include <stdio.h>
+#include <math.h>
+#include <iostream>
+using namespace std;
+double transformtoAngle = 180.0/3.1415926;
+int main()
+{
+    double h[20001];
+    h[0] = 0;
+    for(int i = 1;i < 20001;i++)
+    {
+        h[i] = h[i - 1] + 0.0001;
+    }
+
+    for(int i = 0;i < 20001;i++)
+    {
+        for(int m = 1500;m <= 1800;m++)
+        {
+            double wind = 0.625 * (4 - 2 * h[i]) * 36 * 36;
+            double b0 = 1.025 * 1000 * 9.8 * h[i] * 3.1415926;
+            double g0 = 1000 * 9.8;
+
+            double t1 = sqrt(pow((b0 - g0),2) + wind);
+            double angle1 = atan(wind/(b0 - g0));
+
+            double t2 = sqrt(pow((19.723314 + t1 * cos(angle1) - 98),2) + pow((t1 * sin(angle1)),2));
+            double angle2 = atan((t1 * sin(angle1)) / (19.723314 + t1 * cos(angle1) - 98));
+
+            double t3 = sqrt(pow((19.723314 + t2 * cos(angle2) - 98),2) + pow((t2 * sin(angle2)),2));
+            double angle3 = atan((t2 * sin(angle2)) / (19.723314 + t2 * cos(angle2) - 98));
+
+            double t4 = sqrt(pow((19.723314 + t3 * cos(angle3) - 98),2) + pow((t3 * sin(angle3)),2));
+            double angle4 = atan((t3 * sin(angle3)) / (19.723314 + t3 * cos(angle3) - 98));
+
+            double t5 = sqrt(pow((19.723314 + t4 * cos(angle4) - 98),2) + pow((t4 * sin(angle4)),2));
+            double angle5 = atan((t4 * sin(angle4)) / (19.723314 + t4 * cos(angle4) - 98));
+
+            double t6 = sqrt(pow((19.723314 + t5 * cos(angle5) - 980 - 11760),2) + pow((t5 * sin(angle5)),2));
+            double angle6 = atan((t5 * sin(angle5)) / (19.723314 + t5 * cos(angle5) - 980 - m * 9.8));
+
+            double h1 = cos(angle1);
+            double h2 = cos(angle2);
+            double h3 = cos(angle3);
+            double h4 = cos(angle4);
+            double h5 = cos(angle5);
+
+            double w1 = sin(angle1);
+            double w2 = sin(angle2);
+            double w3 = sin(angle3);
+            double w4 = sin(angle4);
+            double w5 = sin(angle5);
+
+            double totalheight = h1 + h2 + h3 + h4 + h5 + 22.05 * cos(angle6);
+            double totalweight = w1 + w2 + w3 + w4 + w5 + 22.05 * sin(angle6);
+
+            if((fabs(totalheight - 18) < 0.1)&&(angle5 < 5 / transformtoAngle))
+            {
+                cout<<"h = "<<h[i]<<" m = "<<m;//<<" wind = "<<wind<<" ";
+                cout<<" angle5 = "<< angle5 * transformtoAngle;
+                cout<<" angle7 = "<<(angle6 - angle5) * transformtoAngle<<endl;
+                cout<<"total height = "<<totalheight<<endl;
+                cout<<"total weight = "<<totalweight<<endl;
+            }
+        }
+    }
+}
