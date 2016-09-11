@@ -20,7 +20,7 @@ int main()
             cout<<"h = "<<h[i];
             double b0 = 1.025 * 1000 * 9.8 * h[i] * 3.1415926;
             double g0 = 1000 * 9.8;
-            double t1 = sqrt(pow((b0 - g0),2) + wind);
+            double t1 = sqrt(pow((b0 - g0),2) + pow(wind,2));
             double angle1 = atan(wind/(b0 - g0));
             cout<<" t1 = "<<t1<<" angle1 = "<<angle1 * transformtoAngle<<" ";
 
