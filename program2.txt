@@ -28,7 +28,7 @@ int main()
             double t5 = sqrt(pow((19.723311 + t4 * cos(angle4) - 98),2) + pow((t4 * sin(angle4)),2));
             double angle5 = atan((t4 * sin(angle4)) / (19.723311 + t4 * cos(angle4) - 98));
 
-            double t6 = sqrt(pow((710.0391975 + t5 * cos(angle5) - 980 - 11760),2) + pow((t5 * sin(angle5)),2));
+            double t6 = sqrt(pow((710.0391975 + t5 * cos(angle5) - 980 - m * 9.8),2) + pow((t5 * sin(angle5)),2));
             double angle6 = atan((t5 * sin(angle5)) / (710.0391975 + t5 * cos(angle5) - 980 - m * 9.8));
 
             double h1 = cos(angle1);
