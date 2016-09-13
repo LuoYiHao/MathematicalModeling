@@ -58,8 +58,8 @@ int main()
             double w3 = sin(angle3);
             double w4 = sin(angle4);
             double w5 = sin(angle5);
-            double totalweight = w1 + w2 + w3 + w4 + w5 + 22.05 * sin(angle6);
-            cout<<"total weight = "<<totalweight<<endl;
+            double totalwidth = w1 + w2 + w3 + w4 + w5 + 22.05 * sin(angle6);
+            cout<<"total width = "<<totalwidth<<endl;
         }
     cout<<"-----------------------------"<<endl;
     }

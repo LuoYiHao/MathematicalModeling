@@ -1,660 +1,660 @@
 h = 1.6 x = 20 m = 1700 w = 3.68106
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.38138 angle7 = 80.2015
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=23066.8
 h = 1.6 x = 20 m = 1710 w = 3.69478
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.42123 angle7 = 80.1599
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22970.1
 h = 1.6 x = 20 m = 1720 w = 3.70862
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.46141 angle7 = 80.118
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22873.5
 h = 1.6 x = 20 m = 1730 w = 3.72257
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.50193 angle7 = 80.0757
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22776.8
 h = 1.6 x = 20 m = 1740 w = 3.73664
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.5428 angle7 = 80.033
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22680.1
 h = 1.6 x = 20 m = 1750 w = 3.75083
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.58402 angle7 = 79.99
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22583.5
 h = 1.6 x = 20 m = 1760 w = 3.76514
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.6256 angle7 = 79.9466
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22486.9
 h = 1.6 x = 20 m = 1770 w = 3.77957
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.66753 angle7 = 79.9028
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22390.3
 h = 1.6 x = 20 m = 1780 w = 3.79412
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.70983 angle7 = 79.8586
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22293.7
 h = 1.6 x = 20 m = 1790 w = 3.8088
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.75249 angle7 = 79.8141
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22197.1
 h = 1.6 x = 20 m = 1800 w = 3.8236
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.79553 angle7 = 79.7692
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22100.5
 h = 1.6 x = 21 m = 1700 w = 3.84407
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.38138 angle7 = 80.1797
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=23066.8
 h = 1.6 x = 21 m = 1710 w = 3.85847
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.42123 angle7 = 80.138
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22970.1
 h = 1.6 x = 21 m = 1720 w = 3.873
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.46141 angle7 = 80.096
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22873.5
 h = 1.6 x = 21 m = 1730 w = 3.88765
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.50193 angle7 = 80.0536
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22776.8
 h = 1.6 x = 21 m = 1740 w = 3.90242
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.5428 angle7 = 80.0108
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22680.1
 h = 1.6 x = 21 m = 1750 w = 3.91732
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.58402 angle7 = 79.9677
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22583.5
 h = 1.6 x = 21 m = 1760 w = 3.93235
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.6256 angle7 = 79.9242
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22486.9
 h = 1.6 x = 21 m = 1770 w = 3.9475
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.66753 angle7 = 79.8803
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22390.3
 h = 1.6 x = 21 m = 1780 w = 3.96278
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.70983 angle7 = 79.8361
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22293.7
 h = 1.6 x = 21 m = 1790 w = 3.97819
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.75249 angle7 = 79.7914
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22197.1
 h = 1.6 x = 21 m = 1800 w = 3.99374
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.79553 angle7 = 79.7464
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22100.5
 h = 1.6 x = 22 m = 1700 w = 4.00707
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.38138 angle7 = 80.1578
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=23066.8
 h = 1.6 x = 22 m = 1710 w = 4.02216
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.42123 angle7 = 80.116
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22970.1
 h = 1.6 x = 22 m = 1720 w = 4.03738
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.46141 angle7 = 80.0739
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22873.5
 h = 1.6 x = 22 m = 1730 w = 4.05273
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.50193 angle7 = 80.0314
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22776.8
 h = 1.6 x = 22 m = 1740 w = 4.06821
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.5428 angle7 = 79.9885
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22680.1
 h = 1.6 x = 22 m = 1750 w = 4.08382
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.58402 angle7 = 79.9453
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22583.5
 h = 1.6 x = 22 m = 1760 w = 4.09956
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.6256 angle7 = 79.9017
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22486.9
 h = 1.6 x = 22 m = 1770 w = 4.11543
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.66753 angle7 = 79.8577
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22390.3
 h = 1.6 x = 22 m = 1780 w = 4.13144
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.70983 angle7 = 79.8134
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22293.7
 h = 1.6 x = 22 m = 1790 w = 4.14758
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.75249 angle7 = 79.7686
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22197.1
 h = 1.6 x = 22 m = 1800 w = 4.16387
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.79553 angle7 = 79.7235
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22100.5
 h = 1.6 x = 23 m = 1700 w = 4.17008
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.38138 angle7 = 80.1358
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=23066.8
 h = 1.6 x = 23 m = 1710 w = 4.18586
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.42123 angle7 = 80.0939
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22970.1
 h = 1.6 x = 23 m = 1720 w = 4.20177
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.46141 angle7 = 80.0517
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22873.5
 h = 1.6 x = 23 m = 1730 w = 4.21781
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.50193 angle7 = 80.0091
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22776.8
 h = 1.6 x = 23 m = 1740 w = 4.23399
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.5428 angle7 = 79.9661
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22680.1
 h = 1.6 x = 23 m = 1750 w = 4.25031
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.58402 angle7 = 79.9228
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22583.5
 h = 1.6 x = 23 m = 1760 w = 4.26676
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.6256 angle7 = 79.8791
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22486.9
 h = 1.6 x = 23 m = 1770 w = 4.28336
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.66753 angle7 = 79.835
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22390.3
 h = 1.6 x = 23 m = 1780 w = 4.3001
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.70983 angle7 = 79.7906
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22293.7
 h = 1.6 x = 23 m = 1790 w = 4.31698
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.75249 angle7 = 79.7458
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22197.1
 h = 1.6 x = 23 m = 1800 w = 4.334
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.79553 angle7 = 79.7005
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22100.5
 h = 1.6 x = 24 m = 1700 w = 4.33308
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.38138 angle7 = 80.1137
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=23066.8
 h = 1.6 x = 24 m = 1710 w = 4.34955
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.42123 angle7 = 80.0717
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22970.1
 h = 1.6 x = 24 m = 1720 w = 4.36615
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.46141 angle7 = 80.0294
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22873.5
 h = 1.6 x = 24 m = 1730 w = 4.38289
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.50193 angle7 = 79.9867
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22776.8
 h = 1.6 x = 24 m = 1740 w = 4.39978
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.5428 angle7 = 79.9436
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22680.1
 h = 1.6 x = 24 m = 1750 w = 4.4168
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.58402 angle7 = 79.9002
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22583.5
 h = 1.6 x = 24 m = 1760 w = 4.43397
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.6256 angle7 = 79.8564
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22486.9
 h = 1.6 x = 24 m = 1770 w = 4.45129
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.66753 angle7 = 79.8123
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22390.3
 h = 1.6 x = 24 m = 1780 w = 4.46875
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.70983 angle7 = 79.7677
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22293.7
 h = 1.6 x = 24 m = 1790 w = 4.48637
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.75249 angle7 = 79.7228
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22197.1
 h = 1.6 x = 24 m = 1800 w = 4.50413
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.79553 angle7 = 79.6775
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22100.5
 h = 1.6 x = 25 m = 1700 w = 4.49609
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.38138 angle7 = 80.0914
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=23066.8
 h = 1.6 x = 25 m = 1710 w = 4.51324
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.42123 angle7 = 80.0494
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22970.1
 h = 1.6 x = 25 m = 1720 w = 4.53053
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.46141 angle7 = 80.007
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22873.5
 h = 1.6 x = 25 m = 1730 w = 4.54798
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.50193 angle7 = 79.9642
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22776.8
 h = 1.6 x = 25 m = 1740 w = 4.56556
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.5428 angle7 = 79.921
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22680.1
 h = 1.6 x = 25 m = 1750 w = 4.5833
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.58402 angle7 = 79.8775
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22583.5
 h = 1.6 x = 25 m = 1760 w = 4.60118
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.6256 angle7 = 79.8337
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22486.9
 h = 1.6 x = 25 m = 1770 w = 4.61922
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.66753 angle7 = 79.7894
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22390.3
 h = 1.6 x = 25 m = 1780 w = 4.63741
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.70983 angle7 = 79.7447
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22293.7
 h = 1.6 x = 25 m = 1790 w = 4.65576
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.75249 angle7 = 79.6997
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22197.1
 h = 1.6 x = 25 m = 1800 w = 4.67427
-angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598 angle6 = 9.79553 angle7 = 79.6543
+angle1 = 4.69348 angle2 = 4.76124 angle3 = 4.82924 angle4 = 4.89749 angle5 = 4.96598t6=22100.5
 h = 1.7 x = 20 m = 1700 w = 3.26817
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.26985 angle7 = 81.4006
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=26186.3
 h = 1.7 x = 20 m = 1710 w = 3.27886
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.30081 angle7 = 81.3685
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=26089.3
 h = 1.7 x = 20 m = 1720 w = 3.28963
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.33199 angle7 = 81.336
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25992.4
 h = 1.7 x = 20 m = 1730 w = 3.30048
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.36342 angle7 = 81.3034
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25895.4
 h = 1.7 x = 20 m = 1740 w = 3.31142
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.39507 angle7 = 81.2705
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25798.5
 h = 1.7 x = 20 m = 1750 w = 3.32243
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.42697 angle7 = 81.2373
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25701.5
 h = 1.7 x = 20 m = 1760 w = 3.33353
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.45911 angle7 = 81.2039
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25604.6
 h = 1.7 x = 20 m = 1770 w = 3.34471
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.49149 angle7 = 81.1702
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25507.6
 h = 1.7 x = 20 m = 1780 w = 3.35597
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.52412 angle7 = 81.1363
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25410.7
 h = 1.7 x = 20 m = 1790 w = 3.36732
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.557 angle7 = 81.1021
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25313.8
 h = 1.7 x = 20 m = 1800 w = 3.37876
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.59013 angle7 = 81.0677
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25216.9
 h = 1.7 x = 21 m = 1700 w = 3.412
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.26985 angle7 = 81.3835
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=26186.3
 h = 1.7 x = 21 m = 1710 w = 3.42323
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.30081 angle7 = 81.3512
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=26089.3
 h = 1.7 x = 21 m = 1720 w = 3.43454
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.33199 angle7 = 81.3188
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25992.4
 h = 1.7 x = 21 m = 1730 w = 3.44594
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.36342 angle7 = 81.286
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25895.4
 h = 1.7 x = 21 m = 1740 w = 3.45741
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.39507 angle7 = 81.2531
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25798.5
 h = 1.7 x = 21 m = 1750 w = 3.46898
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.42697 angle7 = 81.2198
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25701.5
 h = 1.7 x = 21 m = 1760 w = 3.48063
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.45911 angle7 = 81.1864
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25604.6
 h = 1.7 x = 21 m = 1770 w = 3.49237
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.49149 angle7 = 81.1526
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25507.6
 h = 1.7 x = 21 m = 1780 w = 3.5042
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.52412 angle7 = 81.1186
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25410.7
 h = 1.7 x = 21 m = 1790 w = 3.51611
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.557 angle7 = 81.0844
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25313.8
 h = 1.7 x = 21 m = 1800 w = 3.52812
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.59013 angle7 = 81.0499
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25216.9
 h = 1.7 x = 22 m = 1700 w = 3.55584
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.26985 angle7 = 81.3663
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=26186.3
 h = 1.7 x = 22 m = 1710 w = 3.5676
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.30081 angle7 = 81.3339
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=26089.3
 h = 1.7 x = 22 m = 1720 w = 3.57945
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.33199 angle7 = 81.3014
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25992.4
 h = 1.7 x = 22 m = 1730 w = 3.59139
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.36342 angle7 = 81.2686
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25895.4
 h = 1.7 x = 22 m = 1740 w = 3.60341
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.39507 angle7 = 81.2356
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25798.5
 h = 1.7 x = 22 m = 1750 w = 3.61553
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.42697 angle7 = 81.2023
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25701.5
 h = 1.7 x = 22 m = 1760 w = 3.62773
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.45911 angle7 = 81.1687
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25604.6
 h = 1.7 x = 22 m = 1770 w = 3.64003
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.49149 angle7 = 81.1349
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25507.6
 h = 1.7 x = 22 m = 1780 w = 3.65242
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.52412 angle7 = 81.1009
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25410.7
 h = 1.7 x = 22 m = 1790 w = 3.66491
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.557 angle7 = 81.0666
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25313.8
 h = 1.7 x = 22 m = 1800 w = 3.67749
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.59013 angle7 = 81.032
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25216.9
 h = 1.7 x = 23 m = 1700 w = 3.69967
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.26985 angle7 = 81.349
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=26186.3
 h = 1.7 x = 23 m = 1710 w = 3.71197
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.30081 angle7 = 81.3166
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=26089.3
 h = 1.7 x = 23 m = 1720 w = 3.72436
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.33199 angle7 = 81.284
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25992.4
 h = 1.7 x = 23 m = 1730 w = 3.73684
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.36342 angle7 = 81.2511
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25895.4
 h = 1.7 x = 23 m = 1740 w = 3.74941
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.39507 angle7 = 81.218
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25798.5
 h = 1.7 x = 23 m = 1750 w = 3.76208
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.42697 angle7 = 81.1847
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25701.5
 h = 1.7 x = 23 m = 1760 w = 3.77484
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.45911 angle7 = 81.151
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25604.6
 h = 1.7 x = 23 m = 1770 w = 3.78769
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.49149 angle7 = 81.1172
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25507.6
 h = 1.7 x = 23 m = 1780 w = 3.80065
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.52412 angle7 = 81.0831
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25410.7
 h = 1.7 x = 23 m = 1790 w = 3.8137
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.557 angle7 = 81.0487
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25313.8
 h = 1.7 x = 23 m = 1800 w = 3.82685
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.59013 angle7 = 81.014
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25216.9
 h = 1.7 x = 24 m = 1700 w = 3.84351
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.26985 angle7 = 81.3316
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=26186.3
 h = 1.7 x = 24 m = 1710 w = 3.85634
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.30081 angle7 = 81.2992
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=26089.3
 h = 1.7 x = 24 m = 1720 w = 3.86927
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.33199 angle7 = 81.2665
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25992.4
 h = 1.7 x = 24 m = 1730 w = 3.88229
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.36342 angle7 = 81.2336
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25895.4
 h = 1.7 x = 24 m = 1740 w = 3.89541
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.39507 angle7 = 81.2004
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25798.5
 h = 1.7 x = 24 m = 1750 w = 3.90863
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.42697 angle7 = 81.167
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25701.5
 h = 1.7 x = 24 m = 1760 w = 3.92194
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.45911 angle7 = 81.1333
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25604.6
 h = 1.7 x = 24 m = 1770 w = 3.93536
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.49149 angle7 = 81.0994
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25507.6
 h = 1.7 x = 24 m = 1780 w = 3.94887
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.52412 angle7 = 81.0652
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25410.7
 h = 1.7 x = 24 m = 1790 w = 3.96249
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.557 angle7 = 81.0307
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25313.8
 h = 1.7 x = 24 m = 1800 w = 3.97622
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.59013 angle7 = 80.996
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25216.9
 h = 1.7 x = 25 m = 1700 w = 3.98735
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.26985 angle7 = 81.3142
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=26186.3
 h = 1.7 x = 25 m = 1710 w = 4.00071
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.30081 angle7 = 81.2817
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=26089.3
 h = 1.7 x = 25 m = 1720 w = 4.01418
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.33199 angle7 = 81.2489
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25992.4
 h = 1.7 x = 25 m = 1730 w = 4.02774
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.36342 angle7 = 81.2159
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25895.4
 h = 1.7 x = 25 m = 1740 w = 4.04141
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.39507 angle7 = 81.1827
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25798.5
 h = 1.7 x = 25 m = 1750 w = 4.05517
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.42697 angle7 = 81.1492
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25701.5
 h = 1.7 x = 25 m = 1760 w = 4.06905
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.45911 angle7 = 81.1155
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25604.6
 h = 1.7 x = 25 m = 1770 w = 4.08302
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.49149 angle7 = 81.0815
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25507.6
 h = 1.7 x = 25 m = 1780 w = 4.0971
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.52412 angle7 = 81.0472
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25410.7
 h = 1.7 x = 25 m = 1790 w = 4.11129
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.557 angle7 = 81.0127
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25313.8
 h = 1.7 x = 25 m = 1800 w = 4.12558
-angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596 angle6 = 8.59013 angle7 = 80.9779
+angle1 = 4.36522 angle2 = 4.42759 angle3 = 4.49017 angle4 = 4.55296 angle5 = 4.61596t6=25216.9
 h = 1.8 x = 20 m = 1700 w = 2.94013
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.39513 angle7 = 82.338
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29313.6
 h = 1.8 x = 20 m = 1710 w = 2.94869
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.41987 angle7 = 82.3124
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29216.4
 h = 1.8 x = 20 m = 1720 w = 2.95731
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.44477 angle7 = 82.2866
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29119.2
 h = 1.8 x = 20 m = 1730 w = 2.96599
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.46984 angle7 = 82.2606
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29022
 h = 1.8 x = 20 m = 1740 w = 2.97472
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.49508 angle7 = 82.2345
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28924.9
 h = 1.8 x = 20 m = 1750 w = 2.98352
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.52048 angle7 = 82.2082
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28827.7
 h = 1.8 x = 20 m = 1760 w = 2.99237
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.54606 angle7 = 82.1817
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28730.6
 h = 1.8 x = 20 m = 1770 w = 3.00128
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.57181 angle7 = 82.155
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28633.4
 h = 1.8 x = 20 m = 1780 w = 3.01025
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.59774 angle7 = 82.1281
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28536.3
 h = 1.8 x = 20 m = 1790 w = 3.01928
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.62385 angle7 = 82.1011
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28439.1
 h = 1.8 x = 20 m = 1800 w = 3.02837
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.65013 angle7 = 82.0739
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28342
 h = 1.8 x = 21 m = 1700 w = 3.06884
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.39513 angle7 = 82.3242
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29313.6
 h = 1.8 x = 21 m = 1710 w = 3.07783
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.41987 angle7 = 82.2985
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29216.4
 h = 1.8 x = 21 m = 1720 w = 3.08688
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.44477 angle7 = 82.2726
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29119.2
 h = 1.8 x = 21 m = 1730 w = 3.09599
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.46984 angle7 = 82.2466
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29022
 h = 1.8 x = 21 m = 1740 w = 3.10516
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.49508 angle7 = 82.2204
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28924.9
 h = 1.8 x = 21 m = 1750 w = 3.1144
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.52048 angle7 = 82.1941
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28827.7
 h = 1.8 x = 21 m = 1760 w = 3.12369
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.54606 angle7 = 82.1675
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28730.6
 h = 1.8 x = 21 m = 1770 w = 3.13305
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.57181 angle7 = 82.1408
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28633.4
 h = 1.8 x = 21 m = 1780 w = 3.14247
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.59774 angle7 = 82.1139
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28536.3
 h = 1.8 x = 21 m = 1790 w = 3.15195
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.62385 angle7 = 82.0868
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28439.1
 h = 1.8 x = 21 m = 1800 w = 3.1615
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.65013 angle7 = 82.0595
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28342
 h = 1.8 x = 22 m = 1700 w = 3.19755
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.39513 angle7 = 82.3103
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29313.6
 h = 1.8 x = 22 m = 1710 w = 3.20697
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.41987 angle7 = 82.2845
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29216.4
 h = 1.8 x = 22 m = 1720 w = 3.21645
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.44477 angle7 = 82.2587
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29119.2
 h = 1.8 x = 22 m = 1730 w = 3.226
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.46984 angle7 = 82.2326
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29022
 h = 1.8 x = 22 m = 1740 w = 3.2356
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.49508 angle7 = 82.2064
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28924.9
 h = 1.8 x = 22 m = 1750 w = 3.24528
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.52048 angle7 = 82.1799
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28827.7
 h = 1.8 x = 22 m = 1760 w = 3.25501
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.54606 angle7 = 82.1534
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28730.6
 h = 1.8 x = 22 m = 1770 w = 3.26482
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.57181 angle7 = 82.1266
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28633.4
 h = 1.8 x = 22 m = 1780 w = 3.27468
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.59774 angle7 = 82.0996
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28536.3
 h = 1.8 x = 22 m = 1790 w = 3.28462
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.62385 angle7 = 82.0725
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28439.1
 h = 1.8 x = 22 m = 1800 w = 3.29462
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.65013 angle7 = 82.0452
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28342
 h = 1.8 x = 23 m = 1700 w = 3.32626
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.39513 angle7 = 82.2963
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29313.6
 h = 1.8 x = 23 m = 1710 w = 3.33611
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.41987 angle7 = 82.2706
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29216.4
 h = 1.8 x = 23 m = 1720 w = 3.34602
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.44477 angle7 = 82.2446
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29119.2
 h = 1.8 x = 23 m = 1730 w = 3.356
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.46984 angle7 = 82.2185
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29022
 h = 1.8 x = 23 m = 1740 w = 3.36605
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.49508 angle7 = 82.1922
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28924.9
 h = 1.8 x = 23 m = 1750 w = 3.37616
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.52048 angle7 = 82.1658
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28827.7
 h = 1.8 x = 23 m = 1760 w = 3.38634
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.54606 angle7 = 82.1391
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28730.6
 h = 1.8 x = 23 m = 1770 w = 3.39658
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.57181 angle7 = 82.1123
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28633.4
 h = 1.8 x = 23 m = 1780 w = 3.4069
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.59774 angle7 = 82.0853
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28536.3
 h = 1.8 x = 23 m = 1790 w = 3.41729
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.62385 angle7 = 82.0581
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28439.1
 h = 1.8 x = 23 m = 1800 w = 3.42775
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.65013 angle7 = 82.0307
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28342
 h = 1.8 x = 24 m = 1700 w = 3.45498
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.39513 angle7 = 82.2823
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29313.6
 h = 1.8 x = 24 m = 1710 w = 3.46525
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.41987 angle7 = 82.2565
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29216.4
 h = 1.8 x = 24 m = 1720 w = 3.47559
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.44477 angle7 = 82.2305
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29119.2
 h = 1.8 x = 24 m = 1730 w = 3.48601
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.46984 angle7 = 82.2044
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29022
 h = 1.8 x = 24 m = 1740 w = 3.49649
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.49508 angle7 = 82.178
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28924.9
 h = 1.8 x = 24 m = 1750 w = 3.50704
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.52048 angle7 = 82.1515
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28827.7
 h = 1.8 x = 24 m = 1760 w = 3.51766
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.54606 angle7 = 82.1248
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28730.6
 h = 1.8 x = 24 m = 1770 w = 3.52835
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.57181 angle7 = 82.098
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28633.4
 h = 1.8 x = 24 m = 1780 w = 3.53912
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.59774 angle7 = 82.0709
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28536.3
 h = 1.8 x = 24 m = 1790 w = 3.54996
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.62385 angle7 = 82.0437
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28439.1
 h = 1.8 x = 24 m = 1800 w = 3.56087
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.65013 angle7 = 82.0163
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28342
 h = 1.8 x = 25 m = 1700 w = 3.58369
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.39513 angle7 = 82.2683
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29313.6
 h = 1.8 x = 25 m = 1710 w = 3.59439
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.41987 angle7 = 82.2424
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29216.4
 h = 1.8 x = 25 m = 1720 w = 3.60516
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.44477 angle7 = 82.2164
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29119.2
 h = 1.8 x = 25 m = 1730 w = 3.61601
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.46984 angle7 = 82.1902
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=29022
 h = 1.8 x = 25 m = 1740 w = 3.62693
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.49508 angle7 = 82.1638
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28924.9
 h = 1.8 x = 25 m = 1750 w = 3.63792
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.52048 angle7 = 82.1373
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28827.7
 h = 1.8 x = 25 m = 1760 w = 3.64898
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.54606 angle7 = 82.1105
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28730.6
 h = 1.8 x = 25 m = 1770 w = 3.66012
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.57181 angle7 = 82.0836
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28633.4
 h = 1.8 x = 25 m = 1780 w = 3.67134
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.59774 angle7 = 82.0565
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28536.3
 h = 1.8 x = 25 m = 1790 w = 3.68263
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.62385 angle7 = 82.0292
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28439.1
 h = 1.8 x = 25 m = 1800 w = 3.69399
-angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295 angle6 = 7.65013 angle7 = 82.0017
+angle1 = 4.08081 angle2 = 4.13857 angle3 = 4.19652 angle4 = 4.25464 angle5 = 4.31295t6=28342
 h = 1.9 x = 20 m = 1700 w = 2.6732
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.68913 angle7 = 83.0903
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32446.4
 h = 1.9 x = 20 m = 1710 w = 2.68021
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.70935 angle7 = 83.0694
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32349
 h = 1.9 x = 20 m = 1720 w = 2.68726
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.72969 angle7 = 83.0484
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32251.7
 h = 1.9 x = 20 m = 1730 w = 2.69435
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.75016 angle7 = 83.0273
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32154.4
 h = 1.9 x = 20 m = 1740 w = 2.70149
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.77074 angle7 = 83.006
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32057.1
 h = 1.9 x = 20 m = 1750 w = 2.70867
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.79146 angle7 = 82.9846
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31959.7
 h = 1.9 x = 20 m = 1760 w = 2.71589
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.8123 angle7 = 82.9631
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31862.4
 h = 1.9 x = 20 m = 1770 w = 2.72316
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.83326 angle7 = 82.9415
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31765.1
 h = 1.9 x = 20 m = 1780 w = 2.73047
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.85436 angle7 = 82.9197
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31667.8
 h = 1.9 x = 20 m = 1790 w = 2.73783
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.87559 angle7 = 82.8978
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31570.5
 h = 1.9 x = 20 m = 1800 w = 2.74523
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.89694 angle7 = 82.8757
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31473.2
 h = 1.9 x = 21 m = 1700 w = 2.78968
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.68913 angle7 = 83.0789
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32446.4
 h = 1.9 x = 21 m = 1710 w = 2.79704
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.70935 angle7 = 83.058
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32349
 h = 1.9 x = 21 m = 1720 w = 2.80444
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.72969 angle7 = 83.037
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32251.7
 h = 1.9 x = 21 m = 1730 w = 2.81189
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.75016 angle7 = 83.0158
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32154.4
 h = 1.9 x = 21 m = 1740 w = 2.81939
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.77074 angle7 = 82.9945
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32057.1
 h = 1.9 x = 21 m = 1750 w = 2.82692
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.79146 angle7 = 82.9731
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31959.7
 h = 1.9 x = 21 m = 1760 w = 2.83451
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.8123 angle7 = 82.9515
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31862.4
 h = 1.9 x = 21 m = 1770 w = 2.84214
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.83326 angle7 = 82.9298
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31765.1
 h = 1.9 x = 21 m = 1780 w = 2.84982
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.85436 angle7 = 82.908
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31667.8
 h = 1.9 x = 21 m = 1790 w = 2.85754
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.87559 angle7 = 82.886
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31570.5
 h = 1.9 x = 21 m = 1800 w = 2.86531
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.89694 angle7 = 82.8639
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31473.2
 h = 1.9 x = 22 m = 1700 w = 2.90616
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.68913 angle7 = 83.0675
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32446.4
 h = 1.9 x = 22 m = 1710 w = 2.91387
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.70935 angle7 = 83.0465
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32349
 h = 1.9 x = 22 m = 1720 w = 2.92163
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.72969 angle7 = 83.0254
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32251.7
 h = 1.9 x = 22 m = 1730 w = 2.92943
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.75016 angle7 = 83.0042
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32154.4
 h = 1.9 x = 22 m = 1740 w = 2.93728
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.77074 angle7 = 82.9829
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32057.1
 h = 1.9 x = 22 m = 1750 w = 2.94518
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.79146 angle7 = 82.9614
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31959.7
 h = 1.9 x = 22 m = 1760 w = 2.95313
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.8123 angle7 = 82.9399
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31862.4
 h = 1.9 x = 22 m = 1770 w = 2.96112
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.83326 angle7 = 82.9181
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31765.1
 h = 1.9 x = 22 m = 1780 w = 2.96916
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.85436 angle7 = 82.8963
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31667.8
 h = 1.9 x = 22 m = 1790 w = 2.97725
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.87559 angle7 = 82.8743
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31570.5
 h = 1.9 x = 22 m = 1800 w = 2.9854
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.89694 angle7 = 82.8521
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31473.2
 h = 1.9 x = 23 m = 1700 w = 3.02264
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.68913 angle7 = 83.056
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32446.4
 h = 1.9 x = 23 m = 1710 w = 3.0307
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.70935 angle7 = 83.035
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32349
 h = 1.9 x = 23 m = 1720 w = 3.03881
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.72969 angle7 = 83.0139
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32251.7
 h = 1.9 x = 23 m = 1730 w = 3.04697
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.75016 angle7 = 82.9927
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32154.4
 h = 1.9 x = 23 m = 1740 w = 3.05518
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.77074 angle7 = 82.9713
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32057.1
 h = 1.9 x = 23 m = 1750 w = 3.06344
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.79146 angle7 = 82.9498
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31959.7
 h = 1.9 x = 23 m = 1760 w = 3.07174
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.8123 angle7 = 82.9282
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31862.4
 h = 1.9 x = 23 m = 1770 w = 3.0801
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.83326 angle7 = 82.9064
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31765.1
 h = 1.9 x = 23 m = 1780 w = 3.08851
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.85436 angle7 = 82.8845
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31667.8
 h = 1.9 x = 23 m = 1790 w = 3.09697
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.87559 angle7 = 82.8625
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31570.5
 h = 1.9 x = 23 m = 1800 w = 3.10548
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.89694 angle7 = 82.8403
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31473.2
 h = 1.9 x = 24 m = 1700 w = 3.13913
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.68913 angle7 = 83.0445
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32446.4
 h = 1.9 x = 24 m = 1710 w = 3.14754
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.70935 angle7 = 83.0234
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32349
 h = 1.9 x = 24 m = 1720 w = 3.156
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.72969 angle7 = 83.0023
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32251.7
 h = 1.9 x = 24 m = 1730 w = 3.16451
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.75016 angle7 = 82.981
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32154.4
 h = 1.9 x = 24 m = 1740 w = 3.17308
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.77074 angle7 = 82.9596
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32057.1
 h = 1.9 x = 24 m = 1750 w = 3.18169
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.79146 angle7 = 82.9381
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31959.7
 h = 1.9 x = 24 m = 1760 w = 3.19036
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.8123 angle7 = 82.9164
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31862.4
 h = 1.9 x = 24 m = 1770 w = 3.19908
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.83326 angle7 = 82.8946
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31765.1
 h = 1.9 x = 24 m = 1780 w = 3.20785
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.85436 angle7 = 82.8727
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31667.8
 h = 1.9 x = 24 m = 1790 w = 3.21668
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.87559 angle7 = 82.8506
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31570.5
 h = 1.9 x = 24 m = 1800 w = 3.22556
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.89694 angle7 = 82.8284
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31473.2
 h = 1.9 x = 25 m = 1700 w = 3.25561
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.68913 angle7 = 83.0329
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32446.4
 h = 1.9 x = 25 m = 1710 w = 3.26437
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.70935 angle7 = 83.0119
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32349
 h = 1.9 x = 25 m = 1720 w = 3.27318
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.72969 angle7 = 82.9907
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32251.7
 h = 1.9 x = 25 m = 1730 w = 3.28205
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.75016 angle7 = 82.9694
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32154.4
 h = 1.9 x = 25 m = 1740 w = 3.29097
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.77074 angle7 = 82.9479
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=32057.1
 h = 1.9 x = 25 m = 1750 w = 3.29995
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.79146 angle7 = 82.9264
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31959.7
 h = 1.9 x = 25 m = 1760 w = 3.30898
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.8123 angle7 = 82.9047
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31862.4
 h = 1.9 x = 25 m = 1770 w = 3.31806
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.83326 angle7 = 82.8828
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31765.1
 h = 1.9 x = 25 m = 1780 w = 3.3272
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.85436 angle7 = 82.8609
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31667.8
 h = 1.9 x = 25 m = 1790 w = 3.3364
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.87559 angle7 = 82.8387
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31570.5
 h = 1.9 x = 25 m = 1800 w = 3.34565
-angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481 angle6 = 6.89694 angle7 = 82.8165
+angle1 = 3.83202 angle2 = 3.8858 angle3 = 3.93974 angle4 = 3.99384 angle5 = 4.0481t6=31473.2
 h = 2 x = 20 m = 1700 w = 2.45172
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.1075 angle7 = 83.7072
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35583.2
 h = 2 x = 20 m = 1710 w = 2.45756
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.12433 angle7 = 83.6898
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35485.7
 h = 2 x = 20 m = 1720 w = 2.46343
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.14126 angle7 = 83.6724
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35388.3
 h = 2 x = 20 m = 1730 w = 2.46934
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.15828 angle7 = 83.6549
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35290.9
 h = 2 x = 20 m = 1740 w = 2.47528
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.17539 angle7 = 83.6372
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35193.4
 h = 2 x = 20 m = 1750 w = 2.48125
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.1926 angle7 = 83.6195
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35096
 h = 2 x = 20 m = 1760 w = 2.48726
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.20991 angle7 = 83.6017
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34998.6
 h = 2 x = 20 m = 1770 w = 2.4933
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.22731 angle7 = 83.5837
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34901.2
 h = 2 x = 20 m = 1780 w = 2.49937
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.24481 angle7 = 83.5657
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34803.7
 h = 2 x = 20 m = 1790 w = 2.50548
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.26241 angle7 = 83.5476
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34706.3
 h = 2 x = 20 m = 1800 w = 2.51162
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.28011 angle7 = 83.5293
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34608.9
 h = 2 x = 21 m = 1700 w = 2.55811
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.1075 angle7 = 83.6976
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35583.2
 h = 2 x = 21 m = 1710 w = 2.56425
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.12433 angle7 = 83.6802
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35485.7
 h = 2 x = 21 m = 1720 w = 2.57041
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.14126 angle7 = 83.6628
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35388.3
 h = 2 x = 21 m = 1730 w = 2.57662
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.15828 angle7 = 83.6452
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35290.9
 h = 2 x = 21 m = 1740 w = 2.58285
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.17539 angle7 = 83.6276
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35193.4
 h = 2 x = 21 m = 1750 w = 2.58912
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.1926 angle7 = 83.6098
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35096
 h = 2 x = 21 m = 1760 w = 2.59543
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.20991 angle7 = 83.5919
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34998.6
 h = 2 x = 21 m = 1770 w = 2.60177
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.22731 angle7 = 83.574
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34901.2
 h = 2 x = 21 m = 1780 w = 2.60815
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.24481 angle7 = 83.5559
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34803.7
 h = 2 x = 21 m = 1790 w = 2.61456
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.26241 angle7 = 83.5378
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34706.3
 h = 2 x = 21 m = 1800 w = 2.62101
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.28011 angle7 = 83.5195
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34608.9
 h = 2 x = 22 m = 1700 w = 2.6645
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.1075 angle7 = 83.688
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35583.2
 h = 2 x = 22 m = 1710 w = 2.67093
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.12433 angle7 = 83.6706
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35485.7
 h = 2 x = 22 m = 1720 w = 2.67739
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.14126 angle7 = 83.6531
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35388.3
 h = 2 x = 22 m = 1730 w = 2.68389
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.15828 angle7 = 83.6355
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35290.9
 h = 2 x = 22 m = 1740 w = 2.69043
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.17539 angle7 = 83.6179
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35193.4
 h = 2 x = 22 m = 1750 w = 2.697
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.1926 angle7 = 83.6001
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35096
 h = 2 x = 22 m = 1760 w = 2.7036
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.20991 angle7 = 83.5822
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34998.6
 h = 2 x = 22 m = 1770 w = 2.71024
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.22731 angle7 = 83.5642
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34901.2
 h = 2 x = 22 m = 1780 w = 2.71692
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.24481 angle7 = 83.5461
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34803.7
 h = 2 x = 22 m = 1790 w = 2.72364
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.26241 angle7 = 83.5279
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34706.3
 h = 2 x = 22 m = 1800 w = 2.7304
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.28011 angle7 = 83.5096
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34608.9
 h = 2 x = 23 m = 1700 w = 2.7709
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.1075 angle7 = 83.6784
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35583.2
 h = 2 x = 23 m = 1710 w = 2.77762
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.12433 angle7 = 83.661
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35485.7
 h = 2 x = 23 m = 1720 w = 2.78437
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.14126 angle7 = 83.6435
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35388.3
 h = 2 x = 23 m = 1730 w = 2.79117
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.15828 angle7 = 83.6258
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35290.9
 h = 2 x = 23 m = 1740 w = 2.798
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.17539 angle7 = 83.6081
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35193.4
 h = 2 x = 23 m = 1750 w = 2.80487
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.1926 angle7 = 83.5903
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35096
 h = 2 x = 23 m = 1760 w = 2.81177
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.20991 angle7 = 83.5724
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34998.6
 h = 2 x = 23 m = 1770 w = 2.81872
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.22731 angle7 = 83.5544
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34901.2
 h = 2 x = 23 m = 1780 w = 2.8257
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.24481 angle7 = 83.5363
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34803.7
 h = 2 x = 23 m = 1790 w = 2.83272
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.26241 angle7 = 83.5181
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34706.3
 h = 2 x = 23 m = 1800 w = 2.83979
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.28011 angle7 = 83.4998
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34608.9
 h = 2 x = 24 m = 1700 w = 2.87729
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.1075 angle7 = 83.6688
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35583.2
 h = 2 x = 24 m = 1710 w = 2.8843
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.12433 angle7 = 83.6513
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35485.7
 h = 2 x = 24 m = 1720 w = 2.89135
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.14126 angle7 = 83.6338
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35388.3
 h = 2 x = 24 m = 1730 w = 2.89844
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.15828 angle7 = 83.6161
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35290.9
 h = 2 x = 24 m = 1740 w = 2.90557
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.17539 angle7 = 83.5984
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35193.4
 h = 2 x = 24 m = 1750 w = 2.91274
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.1926 angle7 = 83.5805
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35096
 h = 2 x = 24 m = 1760 w = 2.91994
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.20991 angle7 = 83.5626
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34998.6
 h = 2 x = 24 m = 1770 w = 2.92719
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.22731 angle7 = 83.5446
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34901.2
 h = 2 x = 24 m = 1780 w = 2.93448
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.24481 angle7 = 83.5264
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34803.7
 h = 2 x = 24 m = 1790 w = 2.94181
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.26241 angle7 = 83.5082
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34706.3
 h = 2 x = 24 m = 1800 w = 2.94918
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.28011 angle7 = 83.4898
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34608.9
 h = 2 x = 25 m = 1700 w = 2.98369
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.1075 angle7 = 83.6591
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35583.2
 h = 2 x = 25 m = 1710 w = 2.99099
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.12433 angle7 = 83.6416
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35485.7
 h = 2 x = 25 m = 1720 w = 2.99833
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.14126 angle7 = 83.624
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35388.3
 h = 2 x = 25 m = 1730 w = 3.00572
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.15828 angle7 = 83.6064
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35290.9
 h = 2 x = 25 m = 1740 w = 3.01314
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.17539 angle7 = 83.5886
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35193.4
 h = 2 x = 25 m = 1750 w = 3.02061
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.1926 angle7 = 83.5707
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=35096
 h = 2 x = 25 m = 1760 w = 3.02812
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.20991 angle7 = 83.5528
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34998.6
 h = 2 x = 25 m = 1770 w = 3.03566
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.22731 angle7 = 83.5347
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34901.2
 h = 2 x = 25 m = 1780 w = 3.04326
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.24481 angle7 = 83.5165
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34803.7
 h = 2 x = 25 m = 1790 w = 3.05089
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.26241 angle7 = 83.4983
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34706.3
 h = 2 x = 25 m = 1800 w = 3.05856
-angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463 angle6 = 6.28011 angle7 = 83.4799
+angle1 = 3.61256 angle2 = 3.66286 angle3 = 3.71331 angle4 = 3.7639 angle5 = 3.81463t6=34608.9

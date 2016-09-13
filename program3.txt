@@ -7,7 +7,6 @@ int main()
 {
     double h[21];
     h[0] = 0;
-   // int count = 0;
     for(int i = 1;i < 21;i++)
     {
         h[i] = h[i - 1] + 0.1;
@@ -67,9 +66,8 @@ int main()
                 if(angle5 > 0 && angle5 < 5 / transformtoAngle && totalheight > 20)
                 {
                     cout<<"h = "<<h[i]<<" x = "<<x<<" m = "<<m<<" w = "<<totalwidth<<endl;
-                    //cout<<h[i]<<" "<<x<<" "<<m<<" "<<totalwidth<<" "<<1.5<<" "<<36<<endl;
                     cout<<"angle1 = "<<angle1 * transformtoAngle<<" angle2 = "<<angle2 * transformtoAngle<<" angle3 = "<<angle3 * transformtoAngle;
-                    cout<<" angle4 = "<<angle4 * transformtoAngle<<" angle5 = "<<angle5 * transformtoAngle<<"t6="<<t6<<endl;//<<" angle6 = "<<angle6 * transformtoAngle;
+                    cout<<" angle4 = "<<angle4 * transformtoAngle<<" angle5 = "<<angle5 * transformtoAngle<<"t6="<<t6<<endl;
                 }
             }
         }
